@@ -1,5 +1,4 @@
 # Fireniel.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>W3.CSS Template</title>
