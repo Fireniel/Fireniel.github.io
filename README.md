@@ -1,4 +1,5 @@
 # Fireniel.github.io
+<!DOCTYPE html>
 <html>
 <head>
 <title>W3.CSS Template</title>
@@ -30,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
-  <img class="w3-image" src="Screenshot (2).png" alt="Hamburger Catering" width="1600" height="800">
+  <img class="w3-image" src="/w3images/hamburger.jpg" alt="Hamburger Catering" width="1600" height="800">
   <div class="w3-display-bottomleft w3-padding-large w3-opacity">
     <h1 class="w3-xxlarge">Le Catering</h1>
   </div>
@@ -100,7 +101,10 @@ h1, h2, h3, h4, h5, h6 {
 <!-- End page content -->
 </div>
 
-
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-32">
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+</footer>
 
 </body>
 </html>
